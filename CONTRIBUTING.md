@@ -24,12 +24,12 @@ Here are some ways you can contribute:
 1.  **Fork the repository:** Click the "Fork" button in the top right corner of the GitHub page.
 2.  **Clone your fork:**
     ```bash
-    git clone [https://github.com/your-username/neology-life.git](https://github.com/your-username/neology-life.git)
+    git clone https://github.com/your-username/neology-life.git
     cd neology-life
     ```
 3.  **Add the upstream repository:**
     ```bash
-    git remote add upstream [https://github.com/blue-lotus-org/neology-life.git](https://github.com/blue-lotus-org/neology-life.git)
+    git remote add upstream https://github.com/blue-lotus-org/neology-life.git
     ```
 4.  **Install dependencies:** (This will depend on the project.  The README.md should have specific instructions.  Assuming a Node.js project for example)
     ```bash
