@@ -85,6 +85,7 @@ Contributions are welcome! Please follow these steps to contribute:
    git push origin feature/your-feature-name
    ```
 5. Open a pull request.
+6. Read more on [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## License
 This project is licensed under the MIT, Apache2 Licenses. Free and Opensource, feel free to use, change, contribute and share.
